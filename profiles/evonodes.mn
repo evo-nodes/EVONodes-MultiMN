@@ -1,0 +1,7 @@
+COIN_NAME="evonodes"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="evo_nodesd"
+COIN_CLI="evo_nodes-cli"
+COIN_FOLDER="/root/.evonodes"
+COIN_CONFIG="evonodes.conf"
+COIN_SERVICE="evonodes.service"
